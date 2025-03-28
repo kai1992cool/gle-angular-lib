@@ -19,6 +19,6 @@ import { HelloWorldWithNgrxComponent } from './hello-world-with-ngrx.component';
   ],
   providers: [HelloWorldFacade],
   declarations: [HelloWorldWithNgrxComponent],
-  exports: [HelloWorldFacade, HelloWorldWithNgrxComponent, CommonModule]
+  exports: [HelloWorldWithNgrxComponent, CommonModule]
 })
 export class HelloWorldWithNgrxModule { }

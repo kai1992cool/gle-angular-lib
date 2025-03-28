@@ -40,3 +40,5 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+projects/hello-world-with-ngrx/node_modules
+projects/hello-world-no-ngrx/node_modules
